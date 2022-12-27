@@ -20,7 +20,7 @@ ___
 -	CSS
 - Git e Github
 
-## 🔗 Link do Projeto: https://devpbleite.github.io/encode-challenge/
+## 🔗 Link do Projeto: https://devpbleite.github.io/barbearia-alura/
 
 ## 📌 Resultado do Projeto:
 
