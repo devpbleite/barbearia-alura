@@ -24,7 +24,7 @@ ___
 
 ## 📌 Resultado do Projeto:
 
-<video src="https://github.com/devpbleite/encode-challenge/blob/main/assets/images/encode.png" width="100%"></video><br><br>
+<video src="https://github.com/devpbleite/barbearia-alura/blob/main/assets/video/barbearia-alura.mp4" width="100%"></video><br><br>
 
 
 
